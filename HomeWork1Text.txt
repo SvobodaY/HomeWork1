@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Text for next task.
 Another text for next task.
+=======
+Text for conflict
+>>>>>>> main
